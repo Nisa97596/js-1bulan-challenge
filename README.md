@@ -1,37 +1,37 @@
-# 📚 Belajar JavaScript - Function & Scope + Diskon Promo Toko Kue
+# 🚀 Challenge Belajar JavaScript 1 Bulan
 
-## Hari/Tanggal  
-2025-05-23
+## Deskripsi Challenge  
+Challenge ini dibuat untuk memperdalam pemahaman JavaScript khususnya konsep **Function, Scope, DOM Manipulation**, dan pengembangan kemampuan problem solving tanpa ketergantungan pada AI.  
 
-## Materi yang Dipelajari  
-- **Function** di JavaScript: Membuat fungsi untuk menghitung total belanjaan.  
-- **Scope Variabel:** Memahami let/const dan urutan deklarasi variabel.  
-- **Operator Perbandingan:** Penggunaan `>=` untuk kondisi diskon.  
-- **Logika Diskon:** Menghitung diskon berdasarkan jumlah pembelian dengan persentase tertentu.  
-- **DOM Manipulation:** Mengambil input dari form, menampilkan hasil di halaman dengan `textContent`.  
-- **Event Listener:** Menangani klik tombol dan mencegah reload halaman dengan `event.preventDefault()`.  
-- **Error Debugging:** Memperbaiki typo (`parseInt`), penempatan variabel, dan kesalahan logika.
+## Latar Belakang  
+- Memiliki sertifikat Junior Programmer  
+- Lulusan SMK jurusan RPL  
+- Sudah 2 bulan tidak ngoding  
+- Tujuan: meningkatkan skill ngoding JavaScript, membangun projek setiap hari, dan lebih mandiri tanpa selalu mengandalkan AI.  
 
-## Project Hari Ini  
-Membuat fungsi `hitungTotal()` yang menerima jumlah pembelian tiga jenis kue (Brownies, Donat, Croissant), menghitung diskon sesuai aturan:
+## Aturan Challenge  
+- Waktu belajar: 2 jam per hari  
+- Setiap hari ada projek mini yang harus dibuat dan diupload ke GitHub  
+- Projek dan tema ditentukan sesuai materi belajar  
+- Fokus: memahami konsep secara mendalam dan mempraktikkan langsung  
+- Setelah selesai, kode akan direview untuk peningkatan kualitas  
 
-- Brownies: diskon 10% jika beli ≥ 5  
-- Donat: diskon 15% jika beli ≥ 3  
-- Croissant: diskon 20% jika beli ≥ 2  
+## Tools dan Metode  
+- Bahasa pemrograman: JavaScript (vanilla)  
+- Penggunaan DOM untuk interaksi web  
+- GitHub untuk versi kontrol dan upload projek  
+- Materi belajar dari tutorial, video, dan dokumentasi resmi  
+- Tidak langsung meng-copy paste, tapi coba membuat sendiri dulu  
 
-Fungsi mengembalikan total harga setelah diskon, dan hasil ditampilkan di halaman web.
+## Rencana Materi dan Projek Awal  
+- Hari 1-3: Function dan Scope  
+- Hari 4-7: DOM Manipulation dan Event Handling  
+- Hari 8-10: Array dan Loop  
+- Hari 11-15: Object dan Method  
+- Hari 16-20: Asynchronous JS (Promises, async/await)  
+- Hari 21-25: Project Mini (Toko Online, ToDo List, Kalkulator)  
+- Hari 26-30: Refactor dan Final Project  
 
-## Kode yang Diunggah  
-- `index.html` (form input & elemen hasil)  
-- `script.js` (fungsi hitungTotal, event listener, validasi input, mencegah reload)
+---
 
-## Nilai & Refleksi  
-**Nilai: 8/10**  
-- Sudah paham konsep fungsi, diskon, dan DOM  
-- Perbaikan yang perlu: urutan deklarasi variabel dan logika kalkulasi diskon  
-- Selanjutnya ingin coba tambah validasi input dan tampilan detail diskon
-
-## Rencana Berikutnya  
-- Menambahkan validasi input agar tidak menerima angka negatif atau huruf  
-- Membuat tampilan hasil diskon yang lebih detail dan menarik  
-- Mencoba tantangan baru tanpa tutorial untuk melatih pemecahan masalah
+Semangat belajar dan terus konsisten ya! Setiap hari coding itu investasi buat skill masa depan 🔥  
