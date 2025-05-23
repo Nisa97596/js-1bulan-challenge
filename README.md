@@ -1,6 +1,6 @@
 # 📚 Belajar JavaScript - Function & Scope + Diskon Promo Toko Kue
 
-## Hari/Tanggal  
+## Hari/Tanggal 
 2025-05-23
 
 ## Materi yang Dipelajari  
